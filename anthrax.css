@@ -21,8 +21,15 @@ header {
   text-align: center;
   background-color: black;
   color: white;
+  padding: 10px;
 }
 body {
   background-image: url("forall.png");
+  background-size: cover;
+  position: relative;
+  height: 15%;
+  background-position: center;
+  background-repeat: no-repeat;
+
 }
 
